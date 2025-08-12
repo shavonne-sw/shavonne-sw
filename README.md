@@ -33,8 +33,7 @@ With a background that spans strategic leadership support and advanced analytics
 ### 🕵️‍♀️ **[Gym Customer NLP Analysis](https://github.com/shavonne-sw/nlp-topic-modelling-fitness-customer-feedback)**  
 *NLP-driven analysis of 30,000+ global fitness chain reviews to identify and prioritise customer pain points from negative feedback, enabling targeted service improvements.*  
   - **Scope:** Topic modelling, sentiment & emotion analysis, actionable insight generation with Phi-4 LLM, feedback-to-action translation.  
-  - **Tech:** Python, BERTopic, Gensim LDA, BERT emotion classification, Phi-4 large language model, OpenAI API, LangChain.
-
+  - **Tech:** Python, BERTopic, Gensim LDA, BERT emotion classification, Phi-4 large language model.
 
 
 
