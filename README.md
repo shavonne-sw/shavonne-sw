@@ -14,7 +14,7 @@ With a background that spans strategic leadership support and advanced analytics
 
 ---
 
-## Featured Project
+## Featured Use Cases
 
 ### ⚡ **[Grid Disruption Analytics](https://github.com/shavonne-sw/grid-disruption-analytics)**  
 *Predict. Simulate. Prioritise. An end-to-end pipeline modelling power outages to support grid resilience planning.*  
