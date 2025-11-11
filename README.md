@@ -1,6 +1,6 @@
 # Turning Data Into Decisions
 
-I’m a data scientist who combines in-depth business insight with cutting-edge technical skills to solve complex problems and deliver decision-ready insights.  
+I’m a analytical and data professional who combines in-depth business insight with cutting-edge technical skills to solve complex problems and deliver decision-ready insights.  
 
 With a background that spans strategic leadership support and advanced analytics, I bridge the gap between business priorities and data-driven solutions.
 
